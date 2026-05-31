@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Large dataset files (download separately — see README)
+data/longmemeval/longmemeval_s_cleaned.json
+HaluMem/data/HaluMem-Medium.jsonl
